@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a36e888.css",
+    "main.js": "/static/js/main.0f66e4db.js",
+    "static/js/290.f5feb989.chunk.js": "/static/js/290.f5feb989.chunk.js",
+    "static/js/833.d4d11969.chunk.js": "/static/js/833.d4d11969.chunk.js",
+    "static/media/hellokitty.webp": "/static/media/hellokitty.7fd237345cf684085c8a.webp",
+    "static/media/pinkFlower.png": "/static/media/pinkFlower.c314b621c0353b0dc4c6.png",
+    "static/media/redFlower.png": "/static/media/redFlower.275def1971c0654dfadf.png",
+    "static/media/helloKittyText.webp": "/static/media/helloKittyText.2efa5382cbe1c2e5d67a.webp",
+    "static/media/metamask_Logo.svg": "/static/media/metamask_Logo.322b917795f932ec2603591387f37bb1.svg",
+    "static/media/walletconnect_Logo.svg": "/static/media/walletconnect_Logo.dfa25e470b69d81428be54242b6c9bd1.svg",
+    "static/media/optimistim_Logo.svg": "/static/media/optimistim_Logo.34412af263c903b58c43a243c4a21d56.svg",
+    "static/media/unknown_Logo.svg": "/static/media/unknown_Logo.3f1a64274a9ffe4e60b32a8f2dc0b8b7.svg",
+    "index.html": "/index.html",
+    "static/media/bsc_Logo.svg": "/static/media/bsc_Logo.71c0a79965aef99d7a39158dfec8caaf.svg"
+  },
+  "entrypoints": [
+    "static/css/main.2a36e888.css",
+    "static/js/main.0f66e4db.js"
+  ]
+}
