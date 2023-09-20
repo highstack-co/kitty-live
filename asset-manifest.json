@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.2a36e888.css",
-    "main.js": "/static/js/main.0f66e4db.js",
-    "static/js/290.f5feb989.chunk.js": "/static/js/290.f5feb989.chunk.js",
-    "static/js/833.d4d11969.chunk.js": "/static/js/833.d4d11969.chunk.js",
+    "main.js": "/static/js/main.18b141c8.js",
+    "static/js/290.f6cf1ebf.chunk.js": "/static/js/290.f6cf1ebf.chunk.js",
+    "static/js/833.3000162f.chunk.js": "/static/js/833.3000162f.chunk.js",
     "static/media/hellokitty.webp": "/static/media/hellokitty.7fd237345cf684085c8a.webp",
     "static/media/pinkFlower.png": "/static/media/pinkFlower.c314b621c0353b0dc4c6.png",
     "static/media/redFlower.png": "/static/media/redFlower.275def1971c0654dfadf.png",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.2a36e888.css",
-    "static/js/main.0f66e4db.js"
+    "static/js/main.18b141c8.js"
   ]
 }
